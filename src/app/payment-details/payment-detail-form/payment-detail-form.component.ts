@@ -12,7 +12,7 @@ export class PaymentDetailFormComponent  {
 
   }
   onSubmit(form: NgForm){   
-    console.log(form);
+    
           this.service.postPaymentDetail()
       .subscribe({
         next: res => {
