@@ -1,0 +1,15 @@
+src
+|----App
+|     |---Payment-details
+|     |         |-------------patmend-details
+|     |         |-------------payment-detail-form
+|     |                             |------------payment-detail-form-component
+|     |---Shared
+|           |---------payment-detail-service
+|           |---------payment-detail-model
+|     |---app-module.ts  
+|
+|-----style.css
+|-----index.html
+|
+
